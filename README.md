@@ -1,4 +1,4 @@
-algos
+Structures
 =====
 
 * queue
@@ -11,3 +11,16 @@ algos
 * priority queue
 * graph
 * disjoint-set
+
+Algorithms
+=====
+
+* Huffman
+* Kruskal
+* Prim
+* Bellman-Ford
+* Floyd–Warshall
+* Johnson
+ 
+
+

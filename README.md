@@ -11,6 +11,7 @@ Structures
 * priority queue
 * graph
 * disjoint-set
+* hash table
 
 Algorithms
 =====
@@ -21,6 +22,7 @@ Algorithms
 * Bellman-Ford
 * Floyd–Warshall
 * Johnson
+* Number algorithms
  
 
 

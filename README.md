@@ -24,6 +24,8 @@ Algorithms
 * Johnson
 * Number algorithms
 * FFT
-* Maximum-flow
+* Linear programming
+* Maximum flow
+* Maximum bipartite matching
 
 

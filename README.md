@@ -23,6 +23,7 @@ Algorithms
 * Floyd–Warshall
 * Johnson
 * Number algorithms
-* fft
+* FFT
+* Maximum-flow
 
 

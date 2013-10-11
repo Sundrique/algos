@@ -25,7 +25,7 @@ Algorithms
 * Number algorithms
 * FFT
 * Linear programming
-* Maximum flow
+* Edmonds–Karp
 * Maximum bipartite matching
 
 

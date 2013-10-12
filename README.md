@@ -27,5 +27,6 @@ Algorithms
 * Linear programming
 * Edmonds–Karp
 * Maximum bipartite matching
+* Simplex
 
 

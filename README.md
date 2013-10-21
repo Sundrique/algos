@@ -28,5 +28,7 @@ Algorithms
 * Edmonds–Karp
 * Maximum bipartite matching
 * Simplex
+* Knuth–Morris–Pratt
+* Aho–Corasick
 
 
